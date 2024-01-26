@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/samimibon20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samimibon20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samiratou bonkoungou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiratou bonkoungou" height="30" width="40" /></a>
-<a href="https://discord.gg/Samira9926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Samira#9926" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@samira9926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Samira#9926" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
